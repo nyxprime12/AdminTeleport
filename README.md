@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/nyxprime12/AdminTeleport/total)
+
 # 🏠 AdminTeleport
 
 
