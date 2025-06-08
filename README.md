@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Robocnop/AdminTeleport/total)
+![GitHub all releases](https://img.shields.io/github/downloads/nyxprime12/AdminTeleport/total)
 
 # 🏠 AdminTeleport
 
